@@ -11,7 +11,7 @@ A custom Mobile Legends: Bang Bang Diamonds Store build for lower prices.
 
 ## 🚀 Live Demo
 Once deployed on GitHub Pages, your site will be available at:
-**https://Miguel.github.io/mlbb-store**
+**https://miguel.github.io/my-website/***
 
 ---
 
