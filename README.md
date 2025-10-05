@@ -1,5 +1,5 @@
-# 💎 MLBB Diamonds Store
-A custom Mobile Legends: Bang Bang Diamonds Store built in HTML, CSS, and JavaScript.
+# 💎 MIGIE Diamonds Store
+A custom Mobile Legends: Bang Bang Diamonds Store build for lower prices.
 
 ## ✨ Features
 - Clean responsive UI for all devices  
@@ -11,7 +11,7 @@ A custom Mobile Legends: Bang Bang Diamonds Store built in HTML, CSS, and JavaSc
 
 ## 🚀 Live Demo
 Once deployed on GitHub Pages, your site will be available at:
-**https://yourusername.github.io/mlbb-store**
+**https://Miguel.github.io/mlbb-store**
 
 ---
 
